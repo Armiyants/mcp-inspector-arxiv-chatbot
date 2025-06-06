@@ -43,7 +43,7 @@ Follow the link and open the MCP Inspector UI in your browser.
 - Select a tool (e.g., `get_arxiv_papers` or `extract_info`). You will now see all the input arguments for each tool.
 - Fill in the input fields (like `topic` or `paper_id`).
 - Click **Run Tool** to execute and see the results.
-- ![List, Explore and Run Tool](https://drive.google.com/file/d/1DIcBbQLN8xhdFie0yP3aNZTpo8wrQBdU/view?usp=sharing)
+- ![List, Explore and Run Tool](https://drive.google.com/uc?export=view&id=1DIcBbQLN8xhdFie0yP3aNZTpo8wrQBdU)
 
 ---
 
