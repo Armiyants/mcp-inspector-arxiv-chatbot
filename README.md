@@ -59,6 +59,7 @@ Follow the link and open the MCP Inspector UI in your browser.
 
 ---
 
-## Need Help?
-If you get stuck, just ask! 
+## Wanna contribute ? Need Help?
+If you get stuck, just ask!
+And feel free to submit issues and enhancement requests!
 Enjoy the journey ~ ☺️
