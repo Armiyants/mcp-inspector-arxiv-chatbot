@@ -34,12 +34,11 @@ Follow the link and open the MCP Inspector UI in your browser.
 
 ### Step 1: Connect
 - Click the **Connect** button to start the connection to your MCP server.
-- ![Connect Screenshot](https://drive.google.com/file/d/1iBb7yDXELNU4C-s6CRk96ukG7SSqL28d/view?usp=sharing)
+- ![Connect Screenshot](https://drive.google.com/uc?export=view&id=1iBb7yDXELNU4C-s6CRk96ukG7SSqL28d)
 
 ### Step 2: Explore  and Run Tools
 - Go to the **Tools** tab at the top.
 - Click **List Tools** to see all available tools.
-- ![List Tools](</Users/macbook/Desktop/mcp_inspector_arxiv_chatbot/screenshots/tg_image_3954731087.png>)
 - Select a tool (e.g., `get_arxiv_papers` or `extract_info`). You will now see all the input arguments for each tool.
 - Fill in the input fields (like `topic` or `paper_id`).
 - Click **Run Tool** to execute and see the results.
