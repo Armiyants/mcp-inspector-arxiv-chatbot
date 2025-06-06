@@ -11,7 +11,7 @@ To do it locally on your own:
 First, make sure you have Python 3.9+ installed.
 
 ```bash
-git clone <your-repo-url>
+git clone git@github.com:Armiyants/mcp-inspector-arxiv-chatbot.git
 cd mcp_inspector_arxiv_chatbot
 python3 -m venv venv
 source venv/bin/activate
@@ -39,13 +39,13 @@ Follow the link and open the MCP Inspector UI in your browser.
 ### Step 2: Explore Tools
 - Go to the **Tools** tab at the top.
 - Click **List Tools** to see all available tools.
-- ![List Tools Screenshot](<add-your-screenshot-path-here>)
+- ![List Tools Screenshot](</Users/macbook/Desktop/mcp_inspector_arxiv_chatbot/screenshots/tg_image_3954731087.png>)
 
 ### Step 3: Run a Tool
 - Select a tool (e.g., `get_arxiv_papers` or `extract_info`). You will now see all the input arguments for each tool.
 - Fill in the input fields (like `topic` or `paper_id`).
 - Click **Run Tool** to execute and see the results.
-- ![Run Tool Screenshot](<add-your-screenshot-path-here>)
+- ![Run Tool Screenshot](</Users/macbook/Desktop/mcp_inspector_arxiv_chatbot/screenshots/tg_image_2792832877.png>)
 
 ---
 
